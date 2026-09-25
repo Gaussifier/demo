@@ -1,0 +1,16 @@
+{
+  "forward_map.onnx": {
+    "max_abs_diff_256": 4.410743713378906e-06,
+    "max_abs_diff_320": 1.3232231140136719e-05
+  },
+  "forward_map_static512.onnx": {
+    "max_abs_diff_512": 4.851818084716797e-05
+  },
+  "correction_head.onnx": {
+    "max_abs_diff_256": 6.586313247680664e-06,
+    "max_abs_diff_320": 2.5570392608642578e-05
+  },
+  "correction_head_static512.onnx": {
+    "max_abs_diff_512": 0.00010967254638671875
+  }
+}
